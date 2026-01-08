@@ -1,0 +1,25 @@
+sewai/
+  package.json
+  next.config.js
+  postcss.config.js
+  tailwind.config.ts
+  tsconfig.json
+  .eslintrc.json
+  .env.local.example
+  app/
+    globals.css
+    layout.tsx
+    page.tsx
+    create/
+      page.tsx
+    project/
+      [id]/
+        page.tsx
+  components/
+    Navbar.tsx
+    Container.tsx
+    Field.tsx
+    Tutorial.tsx
+  lib/
+    api.ts
+    types.ts
